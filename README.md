@@ -1,3 +1,4 @@
 # TDS-Project1
 1. The file `GitHub_scrapper.ipynb` facilitates the GitHub data collection process, utilizing the `GitHub REST API` with authentication via a personal token to gather profiles of users located in `Beijing` with over `500 followers`. It collects professional details and repositories, manages API rate limits efficiently, and exports the organized data into two CSV files: `users.csv` and `repositories.csv`.
-2. 
+2. The graph shows a dramatic rise and fall in new user registrations in Beijing from 2008 to 2022. The peak occurred in 2013 with approximately 54 new users, followed by a steady decline. Most notably, registrations grew nearly 600% from 2008 to 2013, but then declined by about 98% from 2013 to 2022.
+![image](https://github.com/user-attachments/assets/ebeb4079-9857-48f4-9102-79ba932ad50b)
